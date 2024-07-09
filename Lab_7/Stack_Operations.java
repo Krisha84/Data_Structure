@@ -114,7 +114,6 @@ public class Stack_Operations{
 
                 case 6:
                     System.out.println("---Exited_Sucessfully---");
-                    sc.close();
                     break;
 
                 default:
