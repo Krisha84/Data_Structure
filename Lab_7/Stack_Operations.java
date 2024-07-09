@@ -122,7 +122,3 @@ public class Stack_Operations{
         }
     }
 }
-
-class Stack{
-
-}
